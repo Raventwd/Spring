@@ -1,4 +1,4 @@
-package Project;
+package Project.Classes;
 
 public class Bus extends Transport{
 

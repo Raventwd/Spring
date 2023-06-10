@@ -1,5 +1,4 @@
-package Project;
-
+package Project.Classes
 public abstract class Transport {
     private String model;
 

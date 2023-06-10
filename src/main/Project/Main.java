@@ -2,10 +2,8 @@ package Project;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import Project.Config.AppConfig;
-import Project.Classes.Bus;
-import Project.Classes.Car;
-import Project.Classes.Driver;
-import Project.Classes.Pickup;
+import Project.Classes.*;
+
 
 public class Main {
     public static void main(String[] args) {

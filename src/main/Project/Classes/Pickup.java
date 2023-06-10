@@ -1,5 +1,4 @@
-package Project;
-
+package Project.Classes;
 public class Pickup extends Transport{
     private String model = "Pickup";
     public Pickup(String model) {
